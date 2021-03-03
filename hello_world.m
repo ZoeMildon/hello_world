@@ -8,3 +8,8 @@ disp('now I am testing forking and branching paths')
 calc=1+2+3;
 
 disp(calc)
+
+calc = calc + 3;
+disp('Secretly edited by Manuel ;-)');
+
+disp('... again');
